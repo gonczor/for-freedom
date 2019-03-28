@@ -11,6 +11,8 @@ Pominięcie kogokolwiek nie jest celowe. Jesli widzisz taką sytuację, to masz 
 
 # Kogo wspierać?
 
+* Agent Tomasz - podcast komentujący polityczną i ekonomiczną stronę naszej rzeczywistości.
+  * [Patronite](https://patronite.pl/agent)
 * Forum Obywatelskiego Rozwoju - organizacja non-profit realizująca m. in. Rachunek od państwa:
   * [lista różnych możliwości wsparcia na ich stronie](https://for.org.pl/pl/wspieraj-nas)
 * Jacek Sierpiński - publicysta, działacz
@@ -26,4 +28,3 @@ Pominięcie kogokolwiek nie jest celowe. Jesli widzisz taką sytuację, to masz 
   * [strona](https://polskafairplay.org)
 * Wolność - partia polityczna
   * [strona z instrukcją przekazywania darowizn](https://wolnosc.pl/wesprzyj-nas/)
-
