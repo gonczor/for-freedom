@@ -20,6 +20,8 @@ Pominięcie kogokolwiek nie jest celowe. Jesli widzisz taką sytuację, to masz 
 * Instytut Misesa - organizacja promująca Austriacką Szkołę Ekonomii
   * [1% podatku](https://mises.pl/wsparcie/1-procent/)
   * [darowizny](https://mises.pl/wsparcie/darowizny/)
+* Konstestacja - radio internetowe
+  * [Możliwe darowizny na stronie](http://www.kontestacja.com/?p=wspieraj)
 * Lekcje ekonomii dla młodzieży - projekt edukacyjne realizowany przez Instytut Misesa.
   * [Patronite](https://patronite.pl/LEM/)
 * Prosta Ekonomia - niezależny projekt edukacyjny z filmikami na youtube
