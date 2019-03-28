@@ -7,7 +7,7 @@ Moim zamysłem jest zebranie linków, które umożliwią Ci znalezienie możliwo
 # Co zrobić jeśli nie widzę tu kogoś, kto moim zdaniem zasługuje na wymienienie?
 Pominięcie kogokolwiek nie jest celowe. Jesli widzisz taką sytuację, to masz 2 możliwości:
 1. Jesli jesteś techniczny i umiesz obsługiwać gita - zrób mi pull requesta. Proszę jedynie abyś w miarę dostosował się do istniejacego stylu.
-2. Jeśli jesteś nietechniczny - napisz do mnie maila z linkiem.
+2. Jeśli jesteś nietechniczny - napisz do mnie maila z linkiem, albo w zakładce `issues` opisz problem.
 
 # Kogo wspierać?
 
