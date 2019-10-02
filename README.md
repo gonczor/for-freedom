@@ -26,7 +26,5 @@ Pominięcie kogokolwiek nie jest celowe. Jesli widzisz taką sytuację, to masz 
   * [Patronite](https://patronite.pl/LEM/)
 * Prosta Ekonomia - niezależny projekt edukacyjny z filmikami na youtube
   * [Patronite](https://patronite.pl/prostaekonomia)
-* Polska Fair Play - ruch polityczny zainicjowany przez Roberta Gwiazdowskiego
-  * [strona](https://polskafairplay.org)
 * Wolność - partia polityczna
   * [strona z instrukcją przekazywania darowizn](https://wolnosc.pl/wesprzyj-nas/)
